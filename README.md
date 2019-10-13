@@ -1,4 +1,4 @@
-# Fake-Ad-Click-Detection-By-Idenitfying-Anomalies
+# Fake-Ad-Click-Detection-By-Identifying-Anomalies
 
 Click Fraud is a technique of deceitfully increasing the number of clicks on a pay-per-click ad. There are two common driving factors for click fraud; one is an attempt by the advertisers to sabotage their competitors by increasing their costs and exhausting their budget caps early. Second is the practice in which Ad publishers try to generate more revenue for themselves by clicking on the ads displayed on their site. The aim of this research is to predict whether a publisher is fraud by analyzing the patterns in data using various features provided. This is achievable by measuring user click counts, flagging IP addresses that produce many clicks. Identifying key mobile agents used or specific country and ip combinations can be used for fraudulent clicks detection. Prediction of fraud publishers is performed by using various classification and machine learning models. 
 
