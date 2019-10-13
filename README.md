@@ -5,8 +5,8 @@ Click Fraud is a technique of deceitfully increasing the number of clicks on a p
 ## DATASET : 
 The data set for this analysis was granted by LARC SMU-CMU Singapore Management University provided by BuzzCity
 https://larc.smu.edu.sg/buzzcity-mobile-advertisement-dataset
-R. J. Oentaryo, E.-P. Lim, M. Finegold, D. Lo, F.-D. Zhu, C. Phua, E.-Y. Cheu, G.-E. Yap, K. Sim, M. N. Nguyen, K. Perera, B. Neupane, M. Faisal, Z.-Y. Aung, W. L. Woon, W. Chen, D. Patel, and D. Berrar, "Detecting click fraud in online advertising: A data mining approach," Journal of Machine Learning Research, vol. 15, pp. 99-140, 2014.
-
+<p>R. J. Oentaryo, E.-P. Lim, M. Finegold, D. Lo, F.-D. Zhu, C. Phua, E.-Y. Cheu, G.-E. Yap, K. Sim, M. N. Nguyen, K. Perera, B. Neupane, M. Faisal, Z.-Y. Aung, W. L. Woon, W. Chen, D. Patel, and D. Berrar, "Detecting click fraud in online advertising: A data mining approach," Journal of Machine Learning Research, vol. 15, pp. 99-140, 2014.
+</p>
 
 
 ## INTRODUCTION :
