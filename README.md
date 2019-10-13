@@ -2,13 +2,14 @@
 
 Click Fraud is a technique of deceitfully increasing the number of clicks on a pay-per-click ad. There are two common driving factors for click fraud; one is an attempt by the advertisers to sabotage their competitors by increasing their costs and exhausting their budget caps early. Second is the practice in which Ad publishers try to generate more revenue for themselves by clicking on the ads displayed on their site. The aim of this research is to predict whether a publisher is fraud by analyzing the patterns in data using various features provided. This is achievable by measuring user click counts, flagging IP addresses that produce many clicks. Identifying key mobile agents used or specific country and ip combinations can be used for fraudulent clicks detection. Prediction of fraud publishers is performed by using various classification and machine learning models. 
 
-DATASET : The data set for this analysis was granted by LARC SMU-CMU Singapore Management University provided by BuzzCity
+## DATASET : 
+The data set for this analysis was granted by LARC SMU-CMU Singapore Management University provided by BuzzCity
 https://larc.smu.edu.sg/buzzcity-mobile-advertisement-dataset
 R. J. Oentaryo, E.-P. Lim, M. Finegold, D. Lo, F.-D. Zhu, C. Phua, E.-Y. Cheu, G.-E. Yap, K. Sim, M. N. Nguyen, K. Perera, B. Neupane, M. Faisal, Z.-Y. Aung, W. L. Woon, W. Chen, D. Patel, and D. Berrar, "Detecting click fraud in online advertising: A data mining approach," Journal of Machine Learning Research, vol. 15, pp. 99-140, 2014.
 
 
 
-INTRODUCTION
+## INTRODUCTION :
 Pay-per-click model is suffering from tremendous fraud issues. In many cases, the clickers click on advertisements without having actual interest in the ad’s link. This enables them earn extra money for depleting the advertiser’s budget. Click fraud refers to all such fraudulent means used for generating more clicks without being recognized by the search engine [1].
 Loss estimation of Mobile app advertisers have doubled compared to 2017 with e-commerce the hardest hit category [14]. E-commerce accounted for 40% of the total installations rejected by Adjust in the 2018 report, up from 20% in 2017. The games category was last year's leader with 35%, but declined to 30% this year. A recent study from Juniper Research has forecasted that advertisers will lose around $42 billion of ad spend globally this year to deceitful activities committed via online, mobile and in-app advertising. This is a 21% increase from the $35 billion lost to advertising fraud in 2018. This growth will be driven by increasingly sophisticated techniques being implemented by fraudsters [15].
 The frauds fall under two main categories:
